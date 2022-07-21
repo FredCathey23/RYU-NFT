@@ -45,8 +45,7 @@ npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS "Hello, Hardhat!"
 
 For faster runs of your tests and scripts, consider skipping ts-node's type checking by setting the environment variable `TS_NODE_TRANSPILE_ONLY` to `1` in hardhat's environment. For more details see [the documentation](https://hardhat.org/guides/typescript.html#performance-optimizations).
 # RYU-NFT
-# RYU-NFT
-# RYU-NFT
-# RYU-NFT
-# RYU-NFT
-# RYU-NFT
+
+open sea url https://testnets.opensea.io/assets/rinkeby/0xf4a2fda1a39956f2df00ea85b5b86e8e43ec2eea/0
+
+etherscan url https://rinkeby.etherscan.io/address/0xf4a2fda1a39956f2df00ea85b5b86e8e43ec2eea
