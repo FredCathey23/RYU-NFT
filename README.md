@@ -48,4 +48,4 @@ For faster runs of your tests and scripts, consider skipping ts-node's type chec
 
 open sea url https://testnets.opensea.io/assets/rinkeby/0xf4a2fda1a39956f2df00ea85b5b86e8e43ec2eea/0
 
-etherscan url https://rinkeby.etherscan.io/address/0xf4a2fda1a39956f2df00ea85b5b86e8e43ec2eea
+etherscan contract https://goerli.etherscan.io/address/0xc1c48dfbeb4885f9f608449561a4e96b062d57ba
